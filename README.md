@@ -6,6 +6,6 @@
 
 # Mercado
 
-Banana
-Tangerina
+- Banana
+- Tangerina
 
