@@ -1,6 +1,6 @@
 # Cerealista
 
-Aveia
-Queijo
-Cacau em pó
+- Aveia
+- Queijo
+- Cacau em pó
 
